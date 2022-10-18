@@ -2,11 +2,23 @@
 
 ![Code Tốt](https://codetot.vn/wp-content/uploads/2022/09/untitled-17-1-1080x593.jpg)
 
+## Tư duy của Code Tốt
+
+- Mỗi cá nhân cần biết nhiều thứ và làm nhiều việc (Fullstack)
+- Mỗi hoạt động cần nghiên cứu và có kế hoạch (Research & Planning)
+- Mỗi kết quả cần được báo cáo và thường xuyên cải thiện (Report & Improvement)
+- Mỗi việc lặp lại hơn 2 lần thì cần nghĩ tới module hoá (Modular)
+- Mỗi trao đổi cần rõ ràng và đạt hiệu quả (Clear & Effective Discussion)
+
 ## Tham gia cùng chúng tôi
 
 Dưới đây là một số mẫu câu hỏi mà Code Tốt đặt ra với ứng viên. Chúng tôi hi vọng dù bạn biết đó là câu hỏi trong buổi phỏng vấn, thì việc đọc những nội dung này cũng sẽ giúp ích cho kiến thức bạn cần tìm hiểu và thực hành. Càng tìm hiểu và làm sát vấn đề chúng tôi nêu ra, bạn càng có cơ hội tiếp cận sâu hơn với mảng lập trình web.
 
 Phần lớn ứng viên đạt tỷ lệ từ 75% trở lên sẽ được gia nhập đội ngũ của chúng tôi.
+
+Nếu bạn đã sẵn sàng, hãy liên hệ với bộ phận Tuyển dụng của Code Tốt nhé.
+- Email: tuyendung@codetot.com
+- Phone: 0987196180
 
 ## Công cụ lập trình
 
