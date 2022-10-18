@@ -1,5 +1,7 @@
 # Code Tốt Web Development Team
 
+![Code Tốt](https://codetot.vn/wp-content/uploads/2022/09/untitled-17-1-1080x593.jpg)
+
 ## Tham gia cùng chúng tôi
 
 Dưới đây là một số mẫu câu hỏi mà Code Tốt đặt ra với ứng viên. Chúng tôi hi vọng dù bạn biết đó là câu hỏi trong buổi phỏng vấn, thì việc đọc những nội dung này cũng sẽ giúp ích cho kiến thức bạn cần tìm hiểu và thực hành. Càng tìm hiểu và làm sát vấn đề chúng tôi nêu ra, bạn càng có cơ hội tiếp cận sâu hơn với mảng lập trình web.
