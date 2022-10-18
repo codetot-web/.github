@@ -21,6 +21,7 @@ Phần lớn ứng viên đạt tỷ lệ từ 75% trở lên sẽ được gia 
 - Bạn có biết cách nào để nhánh của mình luôn cập nhật và sẵn sàng trên nhánh chính (hàng ngày) không?
 - Trên máy của bạn có chứa 1 commit, nhưng chưa kịp push thì bạn `reset` nhầm về một nhánh khác. Làm thế nào để quay trở lại commit trước đây?
 - Bạn có một commit hôm qua và đã cho lên live. Sau đó một số người khác cũng commit lên live. Đến hôm nay, bạn nhận ra commit của bạn bị khách hàng đổi ý và yêu cầu gỡ bỏ. Bạn sẽ làm thế nào?
+- Câu lệnh nào cho phép sửa tên commit gần nhất?
 
 ## Các ngôn ngữ lập trình
 
@@ -73,5 +74,11 @@ Chúng tôi không đặt câu hỏi vào phần lý thuyết mà khai thác ph�
 - Mô tả phương thức cơ bản tạo ra 1 popup khi người dùng vào 1 website sau 5 giây hiện ra, và khi click vào nút 'Đóng' thì sẽ tắt popup không hiện với người dùng này trong vòng 24 giờ.
 - Mô tả cách tạo ra component `tabs`, trong đó có hiệu ứng ẩn hiện các thành phần tab content bằng animation không giật?
 - Mô tả cách làm một sticky bar chứa các link menu trên cùng website, khi click vào mỗi item sẽ scroll mượt tới khu vực tương ứng có id trong trang đó. (Khó hơn) cách nào để tự động gán màu active cho item có trùng id đang chọn?
+- Bạn có biết sự khác nhau giữa `const`, `let` và `var` không?
+- Làm thế nào gán event cho một DOM element dù không tải nó ngay ở thời điểm window onload (ví dụ do AJAX sinh ra)?
+- Làm thế nào để tạo một action load more bài viết trong danh mục? Các biến nào sẽ cần được xác định và yêu cầu backend cần có gì?
+- Bạn dùng thư viện gì để call tới 1 API?
+- Thế nào là quy chuẩn RESTful API? Phương thức tối thiểu nào có thể sử dụng với API đơn giản nhất mà không cần xác minh user, phiên người dùng?
+- Khi nào nên dùng JSON-format cho API và khi nào thì dùng `multipart/form-data`
 
 **Đang cập nhật**
