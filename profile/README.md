@@ -8,4 +8,4 @@
 
 ## Tham gia cùng chúng tôi
 
-![Xem thêm](https://gist.github.com/khoipro/8a0875a92817d2703c957c2eb19222f0)
+[Xem thêm](https://gist.github.com/khoipro/8a0875a92817d2703c957c2eb19222f0)
