@@ -3,7 +3,7 @@
 - Mỗi cá nhân cần biết nhiều thứ và làm nhiều việc (Knowledge & Flexible)
 - Mỗi hoạt động cần nghiên cứu và có kế hoạch (Research & Planning)
 - Mỗi kết quả cần được báo cáo và thường xuyên cải thiện (Report & Improvement)
-- Mỗi việc lặp lại hơn 2 lần thì cần nghĩ tới module hoá (Reusable && Modular)
+- Mỗi việc lặp lại hơn 2 lần thì cần nghĩ tới module hoá (Reusable & Modular)
 - Mỗi trao đổi cần rõ ràng và đạt hiệu quả (Clear & Effective Discussion)
 
 ## Tham gia cùng chúng tôi
